@@ -1,7 +1,7 @@
 ---
 title: test blog
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: testblog.md
 --- 
 
 some text here
