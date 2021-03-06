@@ -1,8 +1,8 @@
-# Three Everyday Analogies to Machine Learning Models
+## Three Everyday Analogies to Machine Learning Models
 
 As data science makes its way out of academia into industry, there is an increasing number of roles that interact with data scientists on a daily basis. While those working on the periphery of data science may not directly build the machine learning models, understanding the basics can be immensely helpful. This will enable you to get a better grasp of what you are asking of your data scientist counterparts and what the limitations may be. Here is a quick start guide to just a few commonly used models and problems they solve. 
 
-### **Decision Tree.**
+## **Decision Tree.**
 
 One of my favourite types of books growing up was the “Choose Your Own Adventure” books. Every few pages, you were given a choice to make and that choice would lead you into reading a different part of the book and storyline. Eventually, you would make it to your very own unique ending. 
 
@@ -12,7 +12,7 @@ This is analogous to how a Decision Tree model works. The trained model is simil
 
 This type of modelling is useful because we can trace back exactly the steps that got us to our endpoint. A real life example may be understanding if an order will result in a refund. Following the example below, if we can predict from the Decision Tree that the order will result in a refund, we can trace back the immediate last step that got us to the end outcome and see if we can make any changes there. One of the drawbacks of this model is that it’s very rigid. Your customer would have had to follow the exact decisions in your decision tree to arrive at the outcome. More on this later. 
 
-### **Random Forest.**
+## **Random Forest.**
 
 Let’s say you get to the end of your “Choose Your Own Adventure” book and your character has died. What do you do? Naturally, you can read another book of this nature and arrive at a different ending. Say you’ve read three of these books and in two of the endings, your character has survived. We can then conclude that generally speaking, you live. 
 
@@ -22,7 +22,7 @@ The model above is known as the Random Forest model. It simply takes several dec
 
 Random Forest models can solve similar problems that Decision Trees solve. The averaging process at the end makes them not as directly interpretable as Decision Tree models, but they are significantly more flexible. Relying on several different trees instead of just one means that we are more likely to converge to the correct prediction. When we have a large dataset, with many possible outcomes to consider, this is usually a better tool than Decision Trees.
 
-### **K-Nearest Neighbours.**
+## **K-Nearest Neighbours.**
 
 Suppose you’re lost in a big crowd of people at a sports game. You’re desperately trying to make it back to your seat before halftime. The only form of navigation you have is identifying the jerseys of the people closest to you. If more people around you are wearing jerseys of your team than the other team, you can assume you’re in the area where your team is. If the opposite is true, you can assume you’re still in the other team’s area.
 
