@@ -1,7 +1,7 @@
 ---
 title: Blog 1
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: index.md
 --- 
 
 ## Three Everyday Analogies to Machine Learning Models
