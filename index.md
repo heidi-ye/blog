@@ -1,9 +1,3 @@
----
-title: Blog 1
-layout: template
-filename: index.md
---- 
-
 ## Three Everyday Analogies to Machine Learning Models
 
 As data science makes its way out of academia into industry, there is an increasing number of roles that interact with data scientists on a daily basis. While those working on the periphery of data science may not directly build the machine learning models, understanding the basics can be immensely helpful. This will enable you to get a better grasp of what you are asking of your data scientist counterparts and what the limitations may be. Here is a quick start guide to just a few commonly used models and problems they solve. 
